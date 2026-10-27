@@ -1,0 +1,2 @@
+# Solotov
+    tsolotov-ai-trading
